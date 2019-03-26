@@ -2,14 +2,21 @@
 
 This repo contains the code for the Adventure Mars Backend
 
-## Pre requirements
+Table of contents:
+1. [Pre requirements](#pre-requirements)
+2. [Configuration](#configuration)
+3. [Running the app](#running-the-app)
+4. [Build for production](#build-for-production)
+5. [Documentation](#documentation)
+
+## Pre requirements
 
 - node.js v8.X.X
 - MySQL server
 - build essentials for your system
 - create a DB called 'geocache' with utf8 encoding
 
-## Configuration
+## Configuration
 
 You must have `gulp-cli` installed globally on your machine. You can install it running the following command:
 
@@ -29,7 +36,7 @@ Then you must create a copy of `.env.example` called `.env` and put all your `en
 cp .env.example .env
 ```
 
-## Running the app
+## Running the app
 
 To run the app on development mode you need to run the following command
 
@@ -45,7 +52,7 @@ to build for production run the following command:
 npm run build
 ```
 
-## Documentation
+## Documentation
 Please read `backend/docs/Framework.md`.
 
 You can read the API documentation at http://localhost:8888/apidoc/ when running locally
