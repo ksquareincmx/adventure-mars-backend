@@ -1,0 +1,1 @@
+ALTER TABLE `quest` ADD `showDistance` TINYINT(1) NOT NULL DEFAULT 0;
