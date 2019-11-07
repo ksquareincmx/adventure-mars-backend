@@ -76,7 +76,7 @@
     "reflect-metadata": "0.1.12",
     "require-dir-all": "0.4.15",
     "segfault-handler": "1.0.0",
-    "sequelize": "4.32.1",
+    "sequelize": "5.15.1",
     "sequelize-typescript": "0.6.2",
     "serve-favicon": "2.4.5",
     "short-uuid": "2.3.4",
