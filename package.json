@@ -80,7 +80,7 @@
     "sequelize-typescript": "0.6.2",
     "serve-favicon": "2.4.5",
     "short-uuid": "2.3.4",
-    "socket.io": "2.0.4",
+    "socket.io": "2.4.0",
     "source-map-support": "0.5.2",
     "token-generator": "1.0.0",
     "upath": "1.0.2",
