@@ -40,7 +40,7 @@
     "chai": "4.1.2",
     "del": "3.0.0",
     "fs-jetpack": "1.2.0",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-shell": "0.6.5",
     "gulp-sourcemaps": "2.6.1",
     "gulp-typescript": "3.2.4",
